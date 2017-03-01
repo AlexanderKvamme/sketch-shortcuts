@@ -1,10 +1,10 @@
 {
-  "author" : "Daniel Eden",
+  "author" : "Matt D. Smith",
   "commands" : [
     {
       "script" : "script.js",
       "name" : "Left",
-      "shortcut" : "cmd ctrl [",
+      "shortcut" : "ctrl cmd ←",
       "handlers" : {
         "run" : "alignLeft"
       },
@@ -12,17 +12,17 @@
     },
     {
       "script" : "script.js",
-      "name" : "Horizontally",
-      "shortcut" : "cmd ctrl ]",
+      "name" : "Center",
+      "shortcut" : "ctrl cmd .",
       "handlers" : {
         "run" : "alignCenter"
       },
-      "identifier" : "alignLayersHorizontally"
+      "identifier" : "alignLayersCenter"
     },
     {
       "script" : "script.js",
       "name" : "Right",
-      "shortcut" : "cmd ctrl \\",
+      "shortcut" : "ctrl cmd →",
       "handlers" : {
         "run" : "alignRight"
       },
@@ -32,7 +32,7 @@
     {
       "script" : "script.js",
       "name" : "Top",
-      "shortcut" : "cmd ctrl shift [",
+      "shortcut" : "ctrl cmd ↑",
       "handlers" : {
         "run" : "alignTop"
       },
@@ -40,17 +40,17 @@
     },
     {
       "script" : "script.js",
-      "name" : "Vertically",
-      "shortcut" : "cmd ctrl shift ]",
+      "name" : "Middle",
+      "shortcut" : "ctrl cmd /",
       "handlers" : {
         "run" : "alignMiddle"
       },
-      "identifier" : "alignLayersVertically"
+      "identifier" : "alignLayersMiddle"
     },
     {
       "script" : "script.js",
       "name" : "Bottom",
-      "shortcut" : "cmd ctrl shift \\",
+      "shortcut" : "ctrl cmd ↓",
       "handlers" : {
         "run" : "alignBottom"
       },
@@ -60,18 +60,18 @@
   "menu" : {
     "items" : [
       "alignLayersLeft",
-      "alignLayersHorizontally",
+      "alignLayersCenter",
       "alignLayersRight",
       "-",
       "alignLayersTop",
-      "alignLayersVertically",
+      "alignLayersMiddle",
       "alignLayersBottom"
     ],
-    "title" : "Align Layers"
+    "title" : "MDS Shortcuts"
   },
-  "identifier" : "me.daneden.SketchAlignLayers",
+  "identifier" : "is.mds.sketchShortcuts",
   "version" : "1.0",
-  "description" : "Add shortcuts to the 'align layers' actions",
-  "authorEmail" : "dan.eden@me.com",
-  "name" : "Align Layers"
+  "description" : "Add shortcuts to the 'align layers' actions and more. Huge props to Dan Eden for the original shortcuts plugin.",
+  "authorEmail" : "matt@mds.is",
+  "name" : "MDS Sketch Shortcuts"
 }
