@@ -2,8 +2,8 @@
 Added keyboard shortcuts to the "Align layers" functions in
 Sketch.
 
-Below is an instructional video that goes along with it.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk5pYsy4OEE" frameborder="0" allowfullscreen></iframe>
+I made a YouTube video that explains its usefulness and such...
+[![sketch alignment video](https://img.youtube.com/vi/Wk5pYsy4OEE/0.jpg)](https://www.youtube.com/watch?v=Wk5pYsy4OEE)
 
 - Use `^ ⌘ ←` to align layers by their left edges
 - Use `^ ⌘ →` to align layers by their right edges
