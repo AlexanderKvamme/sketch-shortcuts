@@ -4,7 +4,7 @@ Sketch.
 
 I made a [YouTube video](https://www.youtube.com/watch?v=Wk5pYsy4OEE) that explains its usefulness and such...
 
-<a href="https://www.youtube.com/watch?v=Wk5pYsy4OEE"><img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3K3t0C1m382e0i2f2K0Y/youtube-thumb.png" alt="sketch alignment video" style="width: 360px;"/></a>
+<a href="https://www.youtube.com/watch?v=Wk5pYsy4OEE"><img src="https://d3vv6lp55qjaqc.cloudfront.net/items/3K3t0C1m382e0i2f2K0Y/youtube-thumb.png" alt="sketch alignment video" width="360" /></a>
 
 - Use `^ ⌘ ←` to align layers by their left edges
 - Use `^ ⌘ →` to align layers by their right edges
