@@ -21,9 +21,6 @@ I made a [YouTube video](https://www.youtube.com/watch?v=Wk5pYsy4OEE) that expla
 2. Double-click the `.sketchplugin` file
 3. In Sketch, run the plugin with one of the shortcuts.
 
-## To Infinity and Beyond...
 Once I learn more about creating Sketch Plugins, I'll update this plugin to include even more useful quick keys...
-
----
 
 _Mad props to [Dan Eden](http://twitter.com/_dte) for the original plugin._
