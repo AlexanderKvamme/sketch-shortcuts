@@ -70,7 +70,7 @@
     "title" : "MDS Shortcuts"
   },
   "identifier" : "is.mds.sketchShortcuts",
-  "version" : "1.0",
+  "version" : "1.1",
   "description" : "Add shortcuts to the 'align layers' actions and more. Huge props to Dan Eden for the original shortcuts plugin.",
   "authorEmail" : "matt@mds.is",
   "name" : "MDS Sketch Shortcuts"

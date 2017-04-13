@@ -9,7 +9,7 @@ var align = {
 
 function alignLayers(context, alignment) {
   var doc = context.document
-  var action = doc.actionsController().actionWithID(alignment);
+  var action = doc.actionsController().actionForID(alignment);
 
   if(action.validate()) {
       action.doPerformAction(nil);
@@ -41,4 +41,3 @@ function alignMiddle(context) {
 function alignBottom(context) {
   alignLayers(context, align.Bottom);
 }
-
