@@ -41,7 +41,7 @@
     {
       "script" : "script.js",
       "name" : "Middle",
-      "shortcut" : "ctrl cmd /",
+      "shortcut" : "ctrl cmd ,",
       "handlers" : {
         "run" : "alignMiddle"
       },
